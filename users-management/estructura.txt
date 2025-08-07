@@ -1,0 +1,42 @@
+﻿|-- backend
+    |-- logs
+    |-- src
+        |-- server.js
+    |-- .env
+    |-- Dockerfile
+    |-- package-lock.json
+    |-- package.json
+|-- frontend
+    |-- public
+        |-- vite.svg
+    |-- src
+        |-- assets
+            |-- react.svg
+        |-- components
+            |-- UserList.jsx
+        |-- services
+            |-- api.js
+        |-- App.css
+        |-- App.jsx
+        |-- index.css
+        |-- main.jsx
+    |-- .env
+    |-- .gitignore
+    |-- Dockerfile
+    |-- eslint.config.js
+    |-- index.html
+    |-- miproyecto.bat
+    |-- nginx.conf
+    |-- package-lock.json
+    |-- package.json
+    |-- README.md
+    |-- vite.config.js
+|-- scripts
+    |-- dev-start.bat.bat
+    |-- start-dev-vbs.vbs
+    |-- start-system.bat.bat
+    |-- stop-dev.bat
+    |-- stop-system.bat.bat
+|-- docker-compose.yml
+|-- estructura.txt
+|-- nginx-proxy.conf
